@@ -1,4 +1,6 @@
-// Console object in ECMAScript
+/**
+ * * Console object in ECMAScript (ES6)
+ */
 
 /// clear all message in console
 console.clear();

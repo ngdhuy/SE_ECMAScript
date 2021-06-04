@@ -1,3 +1,7 @@
+/**
+ * * Variable in ECMAScript (ES6) - Un-type variable
+ */
+
 // variable --> un-type variable
 a = 1;
 console.log("a = ", a);
