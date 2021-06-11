@@ -35,6 +35,8 @@ let value = 200;
 let height = 1.65;
 let sen = `I am tall ${height}cm. I have ${value} dollars.`;
 console.log(sen);
+let text = String.raw`I am tall ${height}cm.\nI have ${value} dollars.`;
+console.log(text);
 console.log("------------------------------------");
 
 //? String Methods
