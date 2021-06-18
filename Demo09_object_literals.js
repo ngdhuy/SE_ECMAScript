@@ -65,6 +65,23 @@ let jsonObject = JSON.parse(str);   // convert string to object json
 console.log("Object JSON:", jsonObject);
 console.log(Object.getOwnPropertyNames(o));
 
+//? Object destructuring
+var user = {
+    id : 1,
+    name : "Mary", 
+    city : "Tokyo", 
+    role : "Admin"
+};
+
+console.log("Object user: ", user); 
+
+var {id, name, city, role} = user; 
+
+console.log("id:", id); 
+console.log("name:", name);
+console.log("city:", city); 
+console.log("role:", role);
+
 //? Lock OBJECT
 console.log("--- LOCK OBJECT ---");
 let pObject = {

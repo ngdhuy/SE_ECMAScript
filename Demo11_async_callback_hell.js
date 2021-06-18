@@ -1,5 +1,5 @@
 /**
- * * Async in ES6: Call-back hell, Promise, Async...Await
+ * * Async in ES6: Call-back hell
  * * use strict of ES6
  */
 'use strict'
