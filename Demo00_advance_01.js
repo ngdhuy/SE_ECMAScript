@@ -1,5 +1,5 @@
 /**
- * * JavaScript Snippet - Useful
+ * * JavaScript Snippet - Useful - Part 01
  */
 
 //! all
