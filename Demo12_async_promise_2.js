@@ -84,5 +84,5 @@ Promise.allSettled([p_3, p_4, p_5, p_6])
     console.log('ALL_SETTLED: P_3, P_4, P_5, P_6', data)
 })
 .catch(error => {
-    console.log('AALL_SETTLED: P_3, P_4, P_5, P_6', error)
+    console.log('ALL_SETTLED: P_3, P_4, P_5, P_6', error)
 })

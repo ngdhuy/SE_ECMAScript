@@ -83,7 +83,7 @@ console.log(arrA);
 console.log("--- REDUCE in array ---");
 let arrB = a.reduce((result, element) => {
     return result + element;
-});
+}, 0);
 
 console.log(arrB);
 
